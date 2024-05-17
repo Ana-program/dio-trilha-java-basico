@@ -21,9 +21,9 @@ public class ContaTerminal {
         System.out.println("Por favor informe o seu nome completo");
         nomeCliente = ler.nextLine();
 
-        System.out.println("Por favor digite o valor do seu saldo");
+        System.out.println("Por favor informe o seu saldo");
         saldo = ler.nextDouble();
-       
+
 }
     }
 
